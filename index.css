@@ -37,3 +37,11 @@ button {
 #saveBtn {
     background: darkgreen;
 }
+
+hr {
+    margin-top: 15px;
+    border: none;
+    height: 4px;
+    color: black;
+    background-color: black;
+}
