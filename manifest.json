@@ -3,12 +3,12 @@
 "short_name": "Clicks Counter",
 "icons": [
 	{
-	"src": "favicon.png",
+	"src": "https://m0hamedashraf19.github.io/OnlineClicksCounter/favicon.ico",
 	"sizes": "512x512",
 	"type": "image/png"
 	}
 ],
-"start_url": "/OnlineClicksCounter/",
+"start_url": ".",
 "display": "standalone",
 "background_color": "#00c800",
 "theme_color": "#00fff2"
