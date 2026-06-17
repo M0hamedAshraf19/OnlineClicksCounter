@@ -7,7 +7,15 @@ function clicked() {
 }
 
 function save() {
-    alert(count)
+    if (count == 0) {
+        alert("No Clicks")
+    }
+    else if (count == 1) {
+        alert("1 Click")
+    }
+    else {
+        alert(count + " Clicks")
+    }
     //console.log(count)
     count = 0
     clickCountEl.textContent = "Clicks: " + count
