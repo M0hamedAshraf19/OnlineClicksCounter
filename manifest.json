@@ -3,9 +3,9 @@
 "short_name": "Clicks Counter",
 "icons": [
 	{
-	"src": "favicon.ico",
+	"src": "https://m0hamedashraf19.github.io/OnlineClicksCounter/favicon.ico",
 	"sizes": "512x512",
-	"type": "image/x-icon"
+	"type": "image/png"
 	}
 ],
 "start_url": ".",
