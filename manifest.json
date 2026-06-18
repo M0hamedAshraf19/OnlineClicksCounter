@@ -2,11 +2,11 @@
 "name": "Online Clicks Counter",
 "short_name": "Clicks Counter",
 "icons": [
-	{
-	"src": "https://m0hamedashraf19.github.io/OnlineClicksCounter/favicon.png",
-	"sizes": "512x512",
-	"type": "image/png"
-	}
+    {
+    "src": "favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+    }
 ],
 "start_url": ".",
 "display": "standalone",
