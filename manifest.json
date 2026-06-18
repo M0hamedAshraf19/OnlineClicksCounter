@@ -3,7 +3,7 @@
 "short_name": "Clicks Counter",
 "icons": [
 	{
-	"src": "favicon.png",
+	"src": "https://m0hamedashraf19.github.io/OnlineClicksCounter/favicon.png",
 	"sizes": "512x512",
 	"type": "image/png"
 	}
