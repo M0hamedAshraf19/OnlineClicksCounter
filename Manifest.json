@@ -2,11 +2,11 @@
 "name": "Online Clicks Counter",
 "short_name": "Clicks Counter",
 "icons": [
-    {
-    "src": "Icon/Favicon.png",
-    "sizes": "512x512",
-    "type": "image/png"
-    }
+	{
+	"src": "Icon/Favicon.png",
+	"sizes": "512x512",
+	"type": "image/png"
+	}
 ],
 "start_url": ".",
 "display": "standalone",
