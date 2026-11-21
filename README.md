@@ -1,1 +1,1 @@
-Foo
+Online Clicks Counter
